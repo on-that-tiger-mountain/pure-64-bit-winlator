@@ -46,7 +46,15 @@ https://github.com/DLC01/mesa
 
 https://github.com/Grima04/mesa-turnip-kgsl
 
+https://github.com/Grima04/mesa-zink-xlib
+
+https://github.com/Heasterian/mesa-turnip-kgsl
+
 https://github.com/Saikatsaha1996/mesa-Panfrost-G610
+
+For virgl-android-opengles:
+https://github.com/mittorn
+https://github.com/alexvorxx/
 
 For box64:
 
