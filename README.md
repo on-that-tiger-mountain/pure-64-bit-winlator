@@ -52,9 +52,17 @@ https://github.com/Heasterian/mesa-turnip-kgsl
 
 https://github.com/Saikatsaha1996/mesa-Panfrost-G610
 
-For virgl-android-opengles:
-https://github.com/mittorn
-https://github.com/alexvorxx/
+For virgl:
+
+https://github.com/mittorn/virglrenderer-android
+
+https://github.com/mittorn/virglrenderer
+
+https://github.com/alexvorxx/VirGL-Overlay-Rebuild
+
+https://github.com/Grima04/mesa-virgl-xlib
+
+https://github.com/alexvorxx/Mesa-VirGL
 
 For box64:
 
@@ -77,7 +85,7 @@ DLC01
 
 Grima04
 
-icecream95
+icecream95(pranforst developer)
 
 Kron4ek
 
