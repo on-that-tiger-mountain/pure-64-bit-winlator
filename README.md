@@ -76,6 +76,7 @@ https://github.com/on-that-tiger-mountain/Wine-Builds-for-pure-64bit-winlator
 https://github.com/on-that-tiger-mountain/proot-for-winlator
 
 Credits:
+AlpyneDreams(For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 
 alexvorxx
 
@@ -83,7 +84,11 @@ BrunoSX(github user name:brunodev85.Developer of Winlator)
 
 DLC01
 
+doitsujin(For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
+
 [Danylo Piliaiev(tunrip developer on mesa)](https://blogs.igalia.com/dpiliaiev/tags/mesa/)
+
+FunkyFr3sh(For CNC DDraw:[github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
 Grima04
 
@@ -102,11 +107,5 @@ Saikatsaha1996
 补补23456(github user name:ewt45)
 
 在那老虎山上(github user name:on-that-tiger-mountain)
-
-DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
-
-D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
-
-CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
 termux,mesa,wine,proot.
