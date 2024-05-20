@@ -103,4 +103,10 @@ Saikatsaha1996
 
 在那老虎山上(github user name:on-that-tiger-mountain)
 
+DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
+
+D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
+
+CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
+
 termux,mesa,wine,proot.
