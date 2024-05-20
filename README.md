@@ -81,7 +81,7 @@ AlpyneDreams (For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneD
 
 alexvorxx
 
-BrunoSX (github user name:brunodev85.Developer of Winlator)
+[BrunoSX](https://github.com/brunodev85/winlator) (Developer of Winlator)
 
 DLC01
 
