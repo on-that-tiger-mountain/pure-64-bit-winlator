@@ -40,7 +40,9 @@ https://github.com/termux/proot
 
 For turnip:
 
-https://github.com/alexvorxx/Mesa-Zink-Xlib
+https://github.com/Grima04/mesa-turnip-kgsl
+
+https://github.com/alexvorxx/Zink-Mesa-Xlib
 
 For box64:
 
@@ -61,6 +63,8 @@ BrunoSX(github user name:brunodev85)
 
 Grima04
 
+mittorn
+
 Kron4ek
 
 ptitSeb
@@ -68,3 +72,5 @@ ptitSeb
 补补23456(github user name:ewt45)
 
 在那老虎山上(github user name:on-that-tiger-mountain)
+
+termux,mesa,wine,proot.
