@@ -83,13 +83,13 @@ BrunoSX(github user name:brunodev85.Developer of Winlator)
 
 DLC01
 
-[Danylo Piliaiev(mesa developer)](https://blogs.igalia.com/dpiliaiev/tags/mesa/)
+[Danylo Piliaiev(tunrip developer on mesa)](https://blogs.igalia.com/dpiliaiev/tags/mesa/)
 
 Grima04
 
 Heasterian
 
-icecream95(pranforst developer)
+icecream95(pranforst developer on mesa)
 
 Kron4ek
 
