@@ -76,17 +76,18 @@ https://github.com/on-that-tiger-mountain/Wine-Builds-for-pure-64bit-winlator
 https://github.com/on-that-tiger-mountain/proot-for-winlator
 
 Credits:
-AlpyneDreams(For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
+
+AlpyneDreams (For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 
 alexvorxx
 
-BrunoSX(github user name:brunodev85.Developer of Winlator)
+BrunoSX (github user name:brunodev85.Developer of Winlator)
 
 DLC01
 
-doitsujin(For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
+doitsujin (For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 
-[Danylo Piliaiev(tunrip developer on mesa)](https://blogs.igalia.com/dpiliaiev/tags/mesa/)
+Danylo Piliaiev (For turnip:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
 
 FunkyFr3sh(For CNC DDraw:[github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
