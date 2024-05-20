@@ -40,11 +40,13 @@ https://github.com/termux/proot
 
 For mesa:
 
-https://github.com/Grima04/mesa-turnip-kgsl
-
 https://github.com/alexvorxx/Zink-Mesa-Xlib
 
 https://github.com/DLC01/mesa
+
+https://github.com/Grima04/mesa-turnip-kgsl
+
+https://github.com/Saikatsaha1996/mesa-Panfrost-G610
 
 For box64:
 
@@ -66,6 +68,8 @@ BrunoSX(github user name:brunodev85)
 DLC01
 
 Grima04
+
+icecream95
 
 Kron4ek
 
