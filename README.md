@@ -81,13 +81,13 @@ AlpyneDreams (For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneD
 
 alexvorxx
 
-[BrunoSX](https://github.com/brunodev85/winlator) (Developer of Winlator)
+[BrunoSX](https://github.com/brunodev85/winlator) (The developer of Winlator)
 
 DLC01
 
 doitsujin (For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 
-Danylo Piliaiev (Developer of  turnip on mesa website:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
+Danylo Piliaiev (The developer of Turnip on the Mesa website:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
 
 FunkyFr3sh(For CNC DDraw:[github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
@@ -95,13 +95,13 @@ Grima04
 
 Heasterian
 
-icecream95 (Developer of panfrost on mesa website)
+icecream95 (The developer of Panfrost on the Mesa website)
 
 Kron4ek
 
 mittorn
 
-[ptitSeb](https://github.com/ptitSeb/box64) (Developer of box64/box86)
+[ptitSeb](https://github.com/ptitSeb/box64) (The developer of Box64/Box86)
 
 Saikatsaha1996
 
