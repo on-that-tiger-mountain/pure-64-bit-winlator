@@ -87,7 +87,7 @@ DLC01
 
 doitsujin (For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 
-Danylo Piliaiev (For turnip:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
+Danylo Piliaiev (Developer of  turnip on mesa website:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
 
 FunkyFr3sh(For CNC DDraw:[github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
@@ -95,7 +95,7 @@ Grima04
 
 Heasterian
 
-icecream95(pranforst developer on mesa)
+icecream95 (Developer of panfrost on mesa website)
 
 Kron4ek
 
