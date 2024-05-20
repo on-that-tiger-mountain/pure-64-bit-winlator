@@ -105,8 +105,8 @@ mittorn
 
 Saikatsaha1996
 
-补补23456(github user name:ewt45)
+补补23456 (github user name:ewt45)
 
-在那老虎山上(github user name:on-that-tiger-mountain)
+在那老虎山上 (github user name:on-that-tiger-mountain)
 
 termux,mesa,wine,proot.
