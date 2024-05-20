@@ -101,7 +101,7 @@ Kron4ek
 
 mittorn
 
-ptitSeb
+[ptitSeb](https://github.com/ptitSeb/box64) (Developer of box64/box86)
 
 Saikatsaha1996
 
