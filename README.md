@@ -82,7 +82,7 @@ alexvorxx
 BrunoSX(github user name:brunodev85)
 
 DLC01
-
+[Dyno](https://blogs.igalia.com/dpiliaiev/tags/mesa/)
 Grima04
 
 icecream95(pranforst developer)
