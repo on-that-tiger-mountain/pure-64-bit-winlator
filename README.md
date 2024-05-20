@@ -79,7 +79,7 @@ Credits:
 
 alexvorxx
 
-BrunoSX(github user name:brunodev85)
+BrunoSX(github user name:brunodev85.Developer of Winlator)
 
 DLC01
 
