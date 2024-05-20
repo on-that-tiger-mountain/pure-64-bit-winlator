@@ -38,11 +38,13 @@ For proot:
 
 https://github.com/termux/proot
 
-For turnip:
+For mesa:
 
 https://github.com/Grima04/mesa-turnip-kgsl
 
 https://github.com/alexvorxx/Zink-Mesa-Xlib
+
+https://github.com/DLC01/mesa
 
 For box64:
 
@@ -61,13 +63,17 @@ alexvorxx
 
 BrunoSX(github user name:brunodev85)
 
-Grima04
+DLC01
 
-mittorn
+Grima04
 
 Kron4ek
 
+mittorn
+
 ptitSeb
+
+Saikatsaha1996
 
 补补23456(github user name:ewt45)
 
