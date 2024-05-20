@@ -1,45 +1,70 @@
 pure 64 bit winlator.
 
-support pure 64 bit phone to use winlator.
+Support pure 64 bit phone to use winlator.
 
-only use box64.
+Only use box64.
 
-remove box86.
+Remove box86.
 
-remove all armhf's deb package in Ubuntu20.04.
+Remove all armhf's deb package in Ubuntu20.04.
 
-pure arm64 Ubuntu20.04 system.
+Pure arm64 Ubuntu20.04 system.
 
-fix internal error.
+Fix internal error.
 
-fix crash when use tz+dxvk to play 32 bit pc games.
+Fix crash when use tz+dxvk to play 32 bit pc games.
 
-fix proot bug.
+Fix proot bug.
 
-can play 32bit pc games with experimental wow64 mode.
+Can play 32bit pc games with experimental wow64 mode.
 
-mod by on-that-tiger-mountain.
+Modified by on-that-tiger-mountain.
 
-credit:
+Tips:
 
-original winlator:
+Original version of Winlator:
 
 https://github.com/brunodev85/winlator
 
-another modified winlator:
+Another modified version of Winlator:
 
 https://github.com/ewt45/winlator-fork
 
-for wine:
+For wine:
 
 https://github.com/Kron4ek/Wine-Builds
 
-for proot:
+For proot:
 
 https://github.com/termux/proot
 
-other:
+For turnip:
+
+https://github.com/alexvorxx/Mesa-Zink-Xlib
+
+For box64:
+
+https://github.com/ptitSeb/box64
+
+
+Other Tips:
 
 https://github.com/on-that-tiger-mountain/Wine-Builds-for-pure-64bit-winlator
 
 https://github.com/on-that-tiger-mountain/proot-for-winlator
+
+Credits:
+
+alexvorxx
+
+BrunoSX(github user name:brunodev85)
+
+Grima04
+
+Kron4ek
+
+ptitSeb
+
+补补23456(github user name:ewt45)
+
+在那老虎山上(github user name:on-that-tiger-mountain)
