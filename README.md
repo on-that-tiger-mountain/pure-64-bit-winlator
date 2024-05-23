@@ -77,17 +77,17 @@ https://github.com/on-that-tiger-mountain/proot-for-winlator
 
 Credits:
 
-AlpyneDreams (For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
-
 alexvorxx
+
+AlpyneDreams (For D8VK:[github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 
 [BrunoSX](https://github.com/brunodev85/winlator) (The developer of Winlator)
 
 DLC01
 
-doitsujin (For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
-
 Danylo Piliaiev (The developer of Turnip on the Mesa website:[blogs.igalia.com/dpiliaiev/tags/mesa](https://blogs.igalia.com/dpiliaiev/tags/mesa/))
+
+doitsujin (For DXVK:[github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 
 FunkyFr3sh(For CNC DDraw:[github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
